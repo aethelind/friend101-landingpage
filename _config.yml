@@ -33,6 +33,17 @@ youtube_username                          :
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
+  - title                                 : Connect!
+    description                           : Connect with nearby people who you will actually get along with.
+    fontawesome_icon_name                 : star
+
+  - title                                 : Deals!
+    description                           : Get awesome deals on local products from our explore page.
+    fontawesome_icon_name                 : star
+
+  - title                                 : Feel Good!
+    description                           : "A portion of all premium sales and ad revenue goes to mental health non-profits. #StopTheStigma"
+    fontawesome_icon_name                 : star
 
   - title                                 : GitHub Pages Jekyll Theme
     description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
